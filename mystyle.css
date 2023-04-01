@@ -25,7 +25,7 @@ p {
 }
 
 .menu{
-    margin-left: 50px;
+    margin-left: 60px;
     margin-right:160px;
     font-size: large;
 } 
@@ -33,148 +33,10 @@ p {
 /* Navbar fuera de la lista */
 
 .menu2{
-    margin-right: 50px;
-    margin-left: 60px;
+
+    margin-right: 60px;
+    margin-left: 70px;
 }
-.icon-cart{
-    width: 25px;
-    height: 40px;
-    color: #fff;
-}
-
-.container-icon{
-    position: relative;
-    cursor: pointer;
-}
-
-.count-products{
-    position: absolute;
-    top: 55%;
-    right: 0;
-
-    background-color:#2d6073;
-    color: #fff;
-    width: 15px;
-    height: 15px;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 50%;
-}
-
-#contador-productos{
-    font-size: 12px;
-}
-
-.container-cart-products{
-    position: absolute;
-    top: 50px;
-    right: 0;
-
-    background-color: #fff;
-    width: 400px;
-    z-index: 1;
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.20);
-    border-radius: 10px;
-    
-}
-
-.cart-product{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 30px;
-
-    border-bottom: 1px solid rgba(0, 0, 0, 0.20);
-
-}
-
-.info-cart-product{
-    display: flex;
-    justify-content: space-between;
-    flex: 0.8;
-}
-
-.titulo-producto-carrito{
-    font-size: 15px;
-}
-
-.precio-producto-carrito{
-    font-weight: 700;
-    font-size: 20px;
-    margin-left: 10px;
-}
-
-.cantidad-producto-carrito{
-    font-weight: 400;
-    font-size: 20px;
-}
-
-.icon-close{
-    width: 25px;
-    height: 25px;
-}
-
-.icon-close:hover{
-    stroke: red;
-    cursor: pointer;
-}
-
-.cart-total{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 20px 0;
-    gap: 20px;
-}
-
-.cart-total h3{
-    font-size: 20px;
-    font-weight: 700;
-}
-
-.total-pagar{
-    font-size: 20px;
-    font-weight: 900;
-}
-
-.hidden-cart{
-    display: none;
-    align-items: center;
-}
-
-.cart-empty{
-    padding: 10px;
-    text-align: center;
-}
-
-.cart-button{
-    text-align: center;
-    padding-bottom: 10px;
-}
-
-
-
-.primerlogo{
-    text-align: center;
-    margin-top: -1%;
-    margin-bottom: 1%;
-    background-color: white;
-
-}
-body {
-    background-color: bisque;
-}
-
-h1 {
-    text-align: center;
-    font-family: sans-serif;
-}
-p {
-    font-family: sans-serif;
-}
-/* icon del carrito*/
 
 .icon-cart{
     width: 25px;
@@ -295,11 +157,6 @@ p {
 }
 
 
-/*carrusel*/
-
-
-   
-/* Banner productos mas vendidos*/
 
 .bestsales{
 

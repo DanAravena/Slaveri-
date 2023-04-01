@@ -1,7 +1,7 @@
 .carousel-inner img{
 
-    width: 20%;
-    height: 20%;
+    width: 50%;
+    height: 50%;
 
 }
 
@@ -22,8 +22,22 @@ h1 {
 }
 p {
     font-family: sans-serif;
-    text-align: center;
 }
+
+.menu{
+    margin-left: 60px;
+    margin-right:160px;
+    font-size: large;
+} 
+
+/* Navbar fuera de la lista */
+
+.menu2{
+
+    margin-right: 60px;
+    margin-left: 70px;
+}
+
 .icon-cart{
     width: 25px;
     height: 40px;
@@ -141,6 +155,9 @@ p {
     text-align: center;
     padding-bottom: 10px;
 }
+
+
+
 .bestsales{
 
     text-align: center;
@@ -150,6 +167,9 @@ p {
     background-color: #65b8a6;
     padding: 10px 10px 10px 10px;
 }
+
+
+/*productos mas vendidos y cards */
 
 .container-items{
     justify-content: space-around;
@@ -237,3 +257,4 @@ p {
     padding: 25px 25px;
 
 }
+
