@@ -41,7 +41,7 @@ p {
     top: 55%;
     right: 0;
 
-    background-color:#2d6073;
+    background-color: grey;
     color: #fff;
     width: 15px;
     height: 15px;
@@ -161,7 +161,7 @@ p {
     margin-top: 5%;
     margin-bottom: 2%;
     color: #fff;
-    background-color: #65b8a6;
+    background-color: grey;
     padding: 10px 10px 10px 10px;
 }
 
@@ -215,7 +215,7 @@ p {
     text-decoration: none;
     text-align: center;
     border: none;
-    background-color: #65b8a6;
+    background-color: grey;
     color: #fff;
     padding: 15px 10px;
 }
@@ -248,7 +248,7 @@ p {
 
     text-align: center;
     text-decoration: none;
-    background-color: #65b8a6;
+    background-color:grey;
     color: #fff;
     margin-top: 20px;
     padding: 25px 25px;
